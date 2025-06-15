@@ -1,11 +1,7 @@
 # Apex_Task1
-
 Apex Internship – Task 1: Simple Webpage with HTML, CSS & JavaScript
-
 This project is the first task of the Apex Internship program. It includes a simple and responsive webpage built using HTML, CSS, and JavaScript to demonstrate basic web development skills.
-
 In this task, I created a basic but functional webpage using core web development technologies.
-
 Project Overview
 
 This project demonstrates:
